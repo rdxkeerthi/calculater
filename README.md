@@ -160,8 +160,9 @@ h1{
 ```
 
  ## OUTPUT:
-![Alt text](cal1.png)
-![Alt text](cal2.png)
+![cal1](https://github.com/rdxkeerthi/calculater/assets/147473120/3b772a50-9518-4e5a-87ac-fe09580419c3)
+![cal2](https://github.com/rdxkeerthi/calculater/assets/147473120/8235c20b-e485-4421-8177-959f80cf5ee3)
+
 ## Result:
 
 THE PROGRAM WAS EXECUTED SUCCESSFULLY.
